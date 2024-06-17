@@ -1,4 +1,4 @@
-# car-color-predicto
+# car-color-predictor
 
 model to predict the car color in the traffic as well as the count of car in the traffic signal. 
 This model should mark red color car as blue and blue color car as red . if the traffic signal has people 
